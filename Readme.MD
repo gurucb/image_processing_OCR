@@ -1,0 +1,1 @@
+# Repository contains image processing to improve image quality for OCR Davanagari scrip
